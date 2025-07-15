@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WITCHER LOUNGE.iml" filepath="$PROJECT_DIR$/.idea/WITCHER LOUNGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/witcher.iml" filepath="$PROJECT_DIR$/.idea/witcher.iml" />
     </modules>
   </component>
 </project>
